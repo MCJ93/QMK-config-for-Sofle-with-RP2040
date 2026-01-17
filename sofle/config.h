@@ -1,0 +1,1 @@
+#define RGBLIGHT_DEFAULT_VAL 100
